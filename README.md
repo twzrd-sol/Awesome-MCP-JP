@@ -638,6 +638,7 @@ MCPサーバーのスイッチをオンにする
 | [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) | CoinGecko APIを使用して暗号通貨市場データを提供するMCPツール。                      |
 | [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) | Yahoo Finance APIを使用して株式データと分析を提供するMCPツール。                   |
 | [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) | Solana Agent Kitを使用してSolanaブロックチェーンと対話し、40以上のプロトコル操作をサポートします。 |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | SolanaウォレットのAIエージェント信頼スコアリングサービス。x402マイクロペイメント前にエージェントウォレットの身元を確認。無料MCPツール（score_agent、preflight_check）と有料ツール（get_trust_receipt）を提供。MCP設定: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
 
 ### 🧠 Retrieval-Augmented Generation
 > Retrieval-Augmented Generation (RAG) は、大規模言語モデル（LLM）によるテキスト生成に、外部情報の検索を組み合わせることで、回答精度を向上させる技術のこと。
